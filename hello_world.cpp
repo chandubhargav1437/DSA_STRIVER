@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-void main(){
+int main(){
     cout<<"hello world bro"<<endl;
-    // return 0hgsuhgkj;
+    return 0;
+    // hgsuhgkj;
 }
