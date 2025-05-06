@@ -5,6 +5,7 @@ using namespace std;
 int main(){
     // cout<<"hello world bro"<<endl;
     //emunnadakkooo emundakkaaa
+    //second commit ra huka
     int t;
     
     cin>>t;
