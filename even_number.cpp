@@ -8,7 +8,7 @@ int main(){
         cout<<"even number"<<endl;
     }
     else{
-        cout<<"odd number"<<endl;
+        cout<<"odd number only bro"<<endl;
 
     }
     
